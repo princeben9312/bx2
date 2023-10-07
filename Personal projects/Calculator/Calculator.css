@@ -1,0 +1,20 @@
+.title{
+  font-size: 30px;
+  color: red;
+}
+.calculate{
+  font-size: 30px;
+  color: black;
+}
+.results{
+  font-size: 30px;
+  color: black;
+}
+.body{
+  color: gray;
+  background-color: white;
+}
+.number{
+  height: 50px;
+  width: 50px;
+}
