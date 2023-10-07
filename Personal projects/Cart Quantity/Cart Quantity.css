@@ -1,0 +1,25 @@
+.button1{
+  border: none;
+  background-color: grey;
+  padding-left: 20px;
+  padding-right: 22px;
+  cursor: pointer;
+}
+.button2{
+  border: none;
+  background-color: gray;
+  padding-inline-start: 15px;
+  cursor: pointer;
+}
+.button3{
+  border: none;
+  background-color: gray;
+  padding-left: 10px;
+  cursor: pointer;
+}
+.button{
+  border: none;
+  background-color: gray;
+  padding-left: 10px;
+  cursor: pointer;
+}
