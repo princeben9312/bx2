@@ -1,0 +1,28 @@
+.homepage-image{
+  height: 200px;
+  width: 200px;
+}
+.flex1 {
+  display: flex;
+  flex: 1;
+  align-content: center;
+  justify-content: center;
+}
+
+.background-color{
+  color: black;
+  background-color: Turquoise;
+}
+button{
+  border: none;
+  cursor: pointer;
+}
+
+.background-color2{
+  background-color: rgb(87, 224, 98);
+}
+
+.closure{
+  background-color: rgb(154, 216, 67);
+  color: white;
+}

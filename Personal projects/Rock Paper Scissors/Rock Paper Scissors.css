@@ -1,0 +1,32 @@
+.title{
+  font: bold;
+  font-weight: 10px;
+  color: red;
+  font-size: 30px;
+}
+.body{
+  color: black;
+  background-color: black;
+
+}
+.Result{
+  color: white;
+  font-size: 20px;
+}
+.Moves{
+  color: white;
+  font-size: 20px;
+}
+.Score{
+  color: white;
+  font-size: 20px;
+}
+.image{
+  height: 50px;
+  border: none;
+}
+.Reset{
+  border: none;
+  background-color: red;
+  padding: 10px;
+}
